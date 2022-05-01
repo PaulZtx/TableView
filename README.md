@@ -1,2 +1,2 @@
 # TableViewModel
- This table of students make with pattern MV
+ This table is created using a pattern MV
